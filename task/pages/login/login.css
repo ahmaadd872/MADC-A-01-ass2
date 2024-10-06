@@ -1,0 +1,168 @@
+body {
+    width: 1920px;
+    height: 1080px;
+    top: 1158px;
+    left: -7556px;
+    padding: 302px 0px 302px 0px;
+
+
+}
+
+.twitterlogo {
+    position: absolute;
+    width: 50px;
+    height: 41px;
+    top: 302px;
+    left: 735px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.logintext {
+    width: 309px;
+    height: 49px;
+    position: absolute;
+    top: 335px;
+    left: 744px;
+    gap: 0px;
+    opacity: 0px;
+
+
+
+}
+
+.logintext p {
+    font-family: Roboto;
+    font-size: 42px;
+    font-weight: 900;
+    line-height: 49.22px;
+    text-align: left;
+}
+
+.group4 {
+
+
+    width: 450px;
+    height: 70px;
+    position: absolute;
+    top: 464px;
+    left: 735px;
+    gap: 0px;
+    border-radius: 6px;
+    border: 1px;
+    opacity: 0px;
+    background: #FFFFFF;
+    border: 1px solid #00000033
+}
+
+.group4 p {
+    width: 236px;
+    height: 24px;
+
+    top: 487px;
+    left: 755px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.94px;
+    text-align: left;
+    color: #00000099;
+padding: 0px 15px;
+
+}
+
+.group5 {
+    width: 450px;
+    height: 70px;
+    position: absolute;
+    top: 559px;
+    left: 735px;
+    gap: 0px;
+    border-radius: 6px;
+    border: 1px;
+    opacity: 0px;
+    background: #FFFFFF;
+    border: 1px solid #00000033
+}
+
+.group5 p {
+    width: 75px;
+    height: 24px;
+    top: 582px;
+    left: 755px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.94px;
+    text-align: left;
+    color: #00000099;
+    padding: 0px 15px;
+}
+
+.loginbtn {
+    width: 450px;
+    height: 60px;
+    position: absolute;
+    top: 654px;
+    left: 735px;
+    gap: 0px;
+    border-radius: 76px;
+    opacity: 0px;
+    background: #1DA1F2;
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.94px;
+    text-align: center;
+    color: #FFFFFF;
+    border: #1DA1F2;
+
+
+}
+
+.group9 {
+    width: 450px;
+    height: 476px;
+
+}
+
+.forgot {
+    width: 142px;
+    height: 24px;
+    position: absolute;
+    top: 754px;
+    left: 735px;
+    gap: 0px;
+    opacity: 0px;
+    color: #1DA1F2;
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.94px;
+    text-align: left;
+
+ 
+}
+
+.signup {
+    width: 141px;
+    height: 24px;
+    position: absolute;
+    top: 754px;
+    left: 1044px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Segoe UI;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.94px;
+    text-align: right;
+    color: #1DA1F2;
+
+
+}
